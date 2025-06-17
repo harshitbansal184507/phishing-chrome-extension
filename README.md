@@ -139,12 +139,7 @@ Click the `📋 Report` button in the popup to send suspicious sites via email.
 
 ---
 
-## 🧑‍💻 Author
 
-Made with 💡 by [Your Name]
+Made by Harshit Bansal
 
----
 
-## 📜 License
-
-MIT License
